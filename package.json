@@ -1,0 +1,23 @@
+{
+  "name": "crt__07-03-2026",
+  "version": "1.0.0",
+  "description": "express and building some application in the learning process",
+  "homepage": "https://github.com/Ramakrishnabootla/Node_Express_Learning#readme",
+  "bugs": {
+    "url": "https://github.com/Ramakrishnabootla/Node_Express_Learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramakrishnabootla/Node_Express_Learning.git"
+  },
+  "license": "ISC",
+  "author": "RamakrishnaBootla",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

@@ -30,4 +30,8 @@ let getUsers = (req,res)=>{
         department: "csm_a"
     }])
 };
-module.exports = {getWelcome,getUsers};
+
+let get1user = (req,res) => {
+    res.send("hello the user 1 is responding")
+}
+module.exports = {getWelcome,getUsers,get1user};
